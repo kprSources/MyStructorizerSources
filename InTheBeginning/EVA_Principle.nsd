@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.30" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" includeList="D_eclarations" author="kpr" created="1984-08-14" changedby="kpr" changed="2019-08-24" origin="Structorizer 3.30" text="&#34;EVA_Principle&#34;" comment="&#34;Every Program has principally the base-structure :&#34;,&#34;I nput (E ingabe)&#34;,&#34;P rocessing (V erarbeitung)&#34;,&#34;O utput (A usgabe)&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<call text="&#34;I_nput()&#34;" comment="&#34;&#34;" color="ffffff" disabled="0"></call>
+		<call text="&#34;P_rocessing()&#34;" comment="&#34;&#34;" color="ffffff" disabled="0"></call>
+		<call text="&#34;O_utput()&#34;" comment="&#34;&#34;" color="ffffff" disabled="0"></call>
+	</children>
+</root>

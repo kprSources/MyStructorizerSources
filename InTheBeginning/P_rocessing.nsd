@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.30" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="kpr" created="1984-08-14" changedby="kpr" changed="2019-08-24" origin="Structorizer 3.30" text="&#34;P_rocessing()&#34;" comment="&#34;The Algorithm, which computes the declared Output-Variables from the declared Input-Variables.&#34;" color="ffffff" type="sub" style="nice">
+	<children color="ffffff">
+	</children>
+</root>
