@@ -1,3 +1,4 @@
 # MyStructorizerSources
-My Structorizer-NSD-Sources
+My Structorizer-NSD-Sources.
+
 Direct change in browser works ! (kpr : 20200407)
